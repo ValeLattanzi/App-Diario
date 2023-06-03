@@ -1,0 +1,30 @@
+Manejo de Usuario => [Sesion, Usuario, Permisos, Perfiles]
+
+Manejo de Socios [ABM]
+Rubros => Carga el Administrador
+Rubro 1:N Negocio
+
+Dudas => {
+Socio 1:1 Tarjeta
+HistorialTarjeta 1:1 MotivoCambio
+}
+
+La tarjeta solo funciona para validar si se aplica el descuento a la hora de leerla
+
+
+Promocion -> {
+	1 Rubro (Semanales)
+	X Duracion
+}
+
+Como socio si se poseo la aplicacion se quiere recibir un mail.
+
+Usuario:
+- Programador
+- Administrador
+- Socio [visualiza la informacion]
+
+Reporte: {reporte racaudacion por rubro}
+Seleccionar el Rubro
+Se quiere conocer que rubro capturo más plata dentro de un periodo determinado.
+Para enfatizar los descuentos en determinado rubro.
