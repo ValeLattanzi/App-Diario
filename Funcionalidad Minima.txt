@@ -1,0 +1,8 @@
+Casos de Uso:
+1 - ABM Promociones
+2 - ABM Rubros
+3 - ABM Negocios 
+4 - ABM Franquicias
+5 - Suscripcion
+6 - Cuota
+7 - Localidad (incluye ciudades y provincias)

@@ -11,7 +11,6 @@ HistorialTarjeta 1:1 MotivoCambio
 
 La tarjeta solo funciona para validar si se aplica el descuento a la hora de leerla
 
-
 Promocion -> {
 	1 Rubro (Semanales)
 	X Duracion
@@ -28,3 +27,7 @@ Reporte: {reporte racaudacion por rubro}
 Seleccionar el Rubro
 Se quiere conocer que rubro capturo más plata dentro de un periodo determinado.
 Para enfatizar los descuentos en determinado rubro.
+
+--------------------------------------------------------------------------------------------
+
+Proponer una moneda virtual para utilizar en los locales
